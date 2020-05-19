@@ -17,13 +17,13 @@
 
 ## Requirement 1: writeup 
 
-I used draw.io for making UMLs
+I used draw.io for making UML Diagrams
 
 ## Requirement 2: writeup
-I used one library called Roles which made it easier to use AccessControl in my dencentalize App. It made it easy to remove and add roles in my AccessControl contracts (FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol).
+I have used a library called Roles which made it easier to use AccessControl in my dencentalize App. It made it easy to remove and add roles in my AccessControl contracts(FarmerRole.sol, DistributorRole.sol, RetailerRole.sol, and ConsumerRole.sol).
 
 ## Requirement 3: writeup
-I did not use IPFS to deliver website. However, I could have just added my files to IPFS in order to fully decentralize my DAPP.
+I did not use IPFS to deliver website.However, I could have just added my files to IPFS in order to fully decentralize my DAPP.
 
 
 # Installing
@@ -97,13 +97,7 @@ Give examples (to be clarified)
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Clone this repository:
-
-```
-git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
-```
+A step by step series of examples that tell you have to get a development env running:-
 
 Change directory to ```this project folder folder``` and install all requisite npm packages (as listed in ```package.json```):
 
